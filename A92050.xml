@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Royall meditations for Easter. Or Enthuziasmes on the death and passion of our late Lord and Soveraigne King Charles the First, of sacred memory. Who was martyred for his people and the lawes January 30. An. Dom. 1649. : With The loyall subjects cordiall prayer (for King Charls II) his good successe over all his enemies. : And A curse to Cromwel and his confederates.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92050</idno><idno type="EEBO-CITATION">45097926</idno>
+  <idno type="VID">171502</idno>
+  <idno type="EEBO-PROQUEST">2240869590</idno>
+  
+            <idno type="STC">Wing R2136A</idno>
+            <idno type="STC">ESTC R182934</idno>
+            <idno type="OCLC">45097926</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171502)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Royall meditations for Easter. Or Enthuziasmes on the death and passion of our late Lord and Soveraigne King Charles the First, of sacred memory. Who was martyred for his people and the lawes January 30. An. Dom. 1649. : With The loyall subjects cordiall prayer (for King Charls II) his good successe over all his enemies. : And A curse to Cromwel and his confederates.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>printed in the yeer. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Poetry.</term>
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Poetry.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171502:1"/>
+            <p>ROYALL MEDITATIONS <hi>FOR</hi> EASTER.</p>
+            <p>Or ENTHUZIASMES on The <hi>Death</hi> and <hi>Passion</hi> of our late Lord and Soveraigne KING <hi>CHARLES</hi> the First, of Sacred Memory.</p>
+            <p>Who was Martyred for His <hi>People</hi> and the <hi>Lawes January</hi> 30. An. Dom. 1649.</p>
+            <p>
+               <hi>WITH</hi> The <hi>Loyall Subjects</hi> Cordiall PRAYER (For King Charls II) His good successe over all His <hi>Enemies.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> A CURSE to CROMWEL and his Confedrates.</p>
+            <p>Printed in the Yeer. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:171502:2"/>
+            <pb n="3" facs="tcp:171502:2"/>
+            <head>MEDITATIONS <hi>FOR</hi> EASTER.</head>
+            <div type="elegy">
+               <head>An <hi>Elegy</hi> on the Death of that <hi>Royall</hi> Martyr, <hi>King CHARLS</hi> the First, murdered at his own gate. <hi>Jan. 30. 1628.</hi>
+               </head>
+               <lg>
+                  <l>SEe how the <hi>mourners</hi> walke about the street,</l>
+                  <l>Each pallid face seeming a winding-sheet</l>
+                  <l>Wherein great <hi>Charls,</hi> though dead, inbalm'd doth lie</l>
+                  <l>With tears, <hi>true-hearts</hi> sighing out <hi>Elegie.</hi>
+                  </l>
+                  <l>What! doe I dream? or is he dead indeed?</l>
+                  <l>Alas he is, and in our hearts doth bleed;</l>
+                  <l>Those hearts which were inflam'd for him with zeal,</l>
+                  <l>Doe now with groans ring his most mournful peal,</l>
+                  <l>Whilst poyson'd tongues of <hi>Rebells</hi> ring his knell,</l>
+                  <l>And only doe his death unto us tell,</l>
+                  <l>Which is by Murder, in it's sun-day dress,</l>
+                  <l>And in it <hi>Gods good service</hi> they profess:</l>
+                  <l>Their killing face, with <hi>vizor</hi> fair they vaile,</l>
+                  <l>Beleeving 'tis no sin to <hi>act,</hi> but <hi>fayle.</hi>
+                  </l>
+                  <l>Our streets, like <hi>Rome,</hi> in <hi>Silaze</hi> dayes, did streame</l>
+                  <l>With <hi>native blood;</hi> but now with blood <hi>supreame.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Wast not enough his <hi>Crown</hi> to take, but must</l>
+                  <l>They take His head too? and lay both in dust!</l>
+                  <l>O cruell <hi>rage!</hi> Is this done like a Saint?</l>
+                  <l>Then Saints wee must like <hi>two-fac'd devills</hi> paint.</l>
+                  <l>In their high <hi>Court of Justice!</hi> wee, sad wee!</l>
+                  <l>
+                     <hi>Astraea</hi> banish'd, as the <hi>Queen</hi> may see.</l>
+                  <l>Are these the Saints baptis'd in <hi>Iordans</hi> flood,</l>
+                  <l>Who <hi>baptize</hi> KINGS in a <hi>Red-sea</hi> of <hi>blood?</hi>
+                  </l>
+                  <pb n="4" facs="tcp:171502:3"/>
+                  <l>Thinking to arive at <hi>Canaan</hi> through that <hi>Sea,</hi>
+                  </l>
+                  <l>Though <hi>cruelty</hi> allows their cursed <hi>plea.</hi>
+                  </l>
+                  <l>Tremble <hi>curst crew,</hi> though Him you've put to death,</l>
+                  <l>His <hi>blood</hi>'s a <hi>mouth</hi> with a nere dying breath,</l>
+                  <l>Calling you <hi>Rebells,</hi> damn'd <hi>Abyrams</hi> seed,</l>
+                  <l>Who killing Kings, makes all <hi>true Subjects</hi> bleed.</l>
+                  <l>Your <hi>Plott</hi> by poyson could not worke, because</l>
+                  <l>His <hi>publique death</hi> might poyson your <hi>new Lawes.</hi>
+                  </l>
+                  <l>And whilst the <hi>Seane</hi> is <hi>London,</hi> men may say</l>
+                  <l>That was <hi>Prologue</hi> and <hi>Epilogue</hi> toth' <hi>Play,</hi>
+                  </l>
+                  <l>Tragick in killing CHARLS, of Kings the best,</l>
+                  <l>By <hi>Traytors</hi> slaine, in earnest, not in jeast.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>London</hi> lament; His precious <hi>blood</hi> your <hi>gold</hi>
+                  </l>
+                  <l>Oth' <hi>Scots</hi> did buy, who their King basely sold,</l>
+                  <l>Acquitting <hi>Barrabas,</hi> and <hi>Christ</hi>-killing</l>
+                  <l>In his <hi>Vicegerent,</hi> our most Blessed KING,</l>
+                  <l>Who <hi>Crown'd with Glory</hi> sits on heavens <hi>Throane,</hi>
+                  </l>
+                  <l>That suffered here, for <hi>no sins of his owne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Fairfax</hi> and <hi>Cromwell,</hi> you two <hi>Poles</hi> that turne</l>
+                  <l>The <hi>Axle-tree</hi> of <hi>State;</hi> Look yee to burne</l>
+                  <l>I'th' fire of Hell, unlesse ye thinke to win</l>
+                  <l>
+                     <hi>Heaven</hi> as well as <hi>England</hi> by your sin:</l>
+                  <l>O rare effects of your <hi>religious warre,</hi>
+                  </l>
+                  <l>When <hi>Rebells</hi> judge, and KINGS stand at the <hi>Barre!</hi>
+                  </l>
+                  <l>Beleeve and tremble Devills; <hi>His</hi> blest Name</l>
+                  <l>Eterniz'd to his glory, and your shame:</l>
+                  <l>The <hi>Prince</hi> (as <hi>Hanniball</hi>) stands at your gates,</l>
+                  <l>Threatning to overthrow your <hi>new-found States.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epitaphs">
+               <head>Two severall <hi>EPITAPHS, Sacred</hi> To the aeternall <hi>Memory</hi> of <hi>King</hi> CHARLS the First.</head>
+               <div n="1" type="part">
+                  <head>I.</head>
+                  <l>HEre lies KING <hi>Charls</hi> the First, the Great,</l>
+                  <l>Valliant; although unfortunate;</l>
+                  <l>The true Religious, Vertuous Prince,</l>
+                  <l>Condemned, for his Innocence;</l>
+                  <pb n="5" facs="tcp:171502:3"/>
+                  <l>The Lawes Protector, three Kingdoms chaffer,</l>
+                  <l>Faiths Defender, yet a <hi>Martyr,</hi>
+                  </l>
+                  <l>Let Men and Angels therefore sing,</l>
+                  <l>Here rests King <hi>Charls,</hi> the Christian King.</l>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <l>If to subdue ones self? if to obtaine</l>
+                  <l>A conquest o're the <hi>Passions,</hi> were to reigne?</l>
+                  <l>Here lyes as great a King, to say no more,</l>
+                  <l>As can come after, or as went before.</l>
+               </div>
+            </div>
+            <div type="acrostic_poem">
+               <head>A <hi>Crostick</hi> upon the <hi>Letters</hi> of His most Sacred <hi>Majesties</hi> Name.</head>
+               <lg>
+                  <l>
+                     <hi>C</hi>ome <hi>Muses</hi> nine, lament with me;</l>
+                  <l>
+                     <hi>H</hi>ave ye not cause, when CHARLS ye see?</l>
+                  <l>
+                     <hi>A</hi>nd when ye have wept almost your last,</l>
+                  <l>
+                     <hi>R</hi>ejoyce at full, ye wept so fast;</l>
+                  <l>
+                     <hi>L</hi>oe here's a Mysterie devine,</l>
+                  <l>
+                     <hi>E</hi>nviron'd in so mean a Shrine;</l>
+                  <l>
+                     <hi>S</hi>ee here's a King! whose Innocense</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>S</hi>eems to proclaime <hi>Heavens Providence.</hi>
+                  </l>
+                  <l>
+                     <hi>T</hi>o all the World; see, and admire!</l>
+                  <l>
+                     <hi>E</hi>ternall Wisdome rays'd him higher,</l>
+                  <l>
+                     <hi>W</hi>hen most of men, did judge his state,</l>
+                  <l>
+                     <hi>A</hi>s if't had been unfortunate;</l>
+                  <l>
+                     <hi>R</hi>ays'd then sublime, by Gods decree,</l>
+                  <l>
+                     <hi>T</hi>o cause him reigne Eternally.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The <hi>Loyall Subjects</hi> cordiall <hi>Quere,</hi> how, and by what means His late <hi>Majesty</hi> of <hi>Great Brittane</hi> fell? together with a <hi>Resolve.</hi>
+               </head>
+               <l>HOw fell the Royall <hi>Oake?</hi> by a base crew</l>
+               <l>Of Mungrill <hi>Shrubbs,</hi> which underneath him grew.</l>
+               <l>How fell the <hi>Lyon?</hi> by a pack of <hi>Curres;</hi>
+               </l>
+               <l>So the <hi>Rose</hi> wither'd, 'twixt a knot of <hi>Burres.</hi>
+               </l>
+               <pb n="6" facs="tcp:171502:4"/>
+               <l>How fell the <hi>Eagle?</hi> by a swarm of <hi>Gnats,</hi>
+               </l>
+               <l>So the <hi>Whale</hi> perish'd, by a shoale of <hi>Spratts;</hi>
+               </l>
+               <l>How fell our <hi>Saviour?</hi> by a <hi>Judas</hi> kisse,</l>
+               <l>So fell King CHARLS by many <hi>Iudasses,</hi>
+               </l>
+               <l>Thus heaven, earth, water, aire aspir'd as one</l>
+               <l>To settle CHARLS, in a <hi>trumphant Throane.</hi>
+               </l>
+            </div>
+            <div type="elegy">
+               <head>An <hi>Elegy,</hi> Sacred to the eternall memory of his unparalell'd late <hi>Majesty,</hi> King <hi>Charls</hi> the First.</head>
+               <lg>
+                  <l>EMpty my soul with sighs, and mayst thou be</l>
+                  <l>More quick then flame, who by strange destinie</l>
+                  <l>Mounts nimbly towards its <hi>center;</hi> let us rear</l>
+                  <l>A pile of <hi>sighs,</hi> and by each sigh a tear,</l>
+                  <l>To him, who only can relieve, and cease</l>
+                  <l>Our desperate Jarres, our <hi>hate</hi> that stabs our <hi>Peace.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Come daughters of <hi>Ierusalem,</hi> you that must</l>
+                  <l>See all your glory buryed in the <hi>dust,</hi>
+                  </l>
+                  <l>Bring <hi>sackcloth</hi> on your loynes, untye your <hi>Tress,</hi>
+                  </l>
+                  <l>Let ashes, weeping, mourning be your dress,</l>
+                  <l>Your meat, your drink, and in every thing</l>
+                  <l>Condole amayn, the losse of <hi>Charls</hi> your King,</l>
+                  <l>Whose numerous Vertues, seemed to out-vye,</l>
+                  <l>I had almost said, even a <hi>Deitie.</hi>
+                  </l>
+                  <l>True <hi>King</hi> indeed, for he subdued those</l>
+                  <l>That were his inward, bosome, native foes;</l>
+                  <l>I mean his <hi>Passions,</hi> nor bore he least of gall</l>
+                  <l>To those accursed <hi>Imps,</hi> that caus'd his fall:</l>
+                  <l>His fall said I! oh, there I did mistake,</l>
+                  <l>'Twas such a <hi>fall,</hi> as did him <hi>glorious make;</hi>
+                  </l>
+                  <l>Malitious <hi>envie</hi> thought to cast him downe,</l>
+                  <l>And make him Infamous; But his death did crowne</l>
+                  <l>Him truly Noble: those that did see him die</l>
+                  <l>Are well assur'd, <hi>He</hi> lives immortally:</l>
+                  <l>He smil'd at Death, as if he did foresee,</l>
+                  <l>That was his <hi>way</hi> unto <hi>Aeternitie;</hi>
+                  </l>
+                  <l>He stood to fall, and falling he will stand</l>
+                  <l>Renownd for ever: O unhappy Land,</l>
+                  <pb n="7" facs="tcp:171502:4"/>
+                  <l>That speak thee happy once, now doth begin,</l>
+                  <l>The Devill, and his Saints, to usher in</l>
+                  <l>Their worst of malice, under a fayre pretence,</l>
+                  <l>They'l make thee happy, by strange Providence;</l>
+                  <l>'Tis stange indeed; Heavens doctrine doth proclaime</l>
+                  <l>Kings his annointed; touch not them againe,</l>
+                  <l>Is his appointment, <hi>vengeance is onely mine,</hi>
+                  </l>
+                  <l>And doubtlesse he will pay them home in time.</l>
+                  <l>Thou didst forgive them all, so they repent,</l>
+                  <l>I wish they might; Heaven then will sure prevent</l>
+                  <l>Notorious evills, and with his all assent,</l>
+                  <l>Crowne thee a King, in heavens Parliament,</l>
+                  <l>Whilst <hi>Charls</hi> thy Son, heire as King shall reigne</l>
+                  <l>In spight of those who doe oppose the same.</l>
+                  <l>'Tis heavens <hi>decree</hi> I'me sure, that KINGS should be</l>
+                  <l>His <hi>Deputies</hi> on earth, to keep <hi>us free.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The <hi>Loyall Subjects</hi> cordiall Prayer for His right Majesty, <hi>CHARLS</hi> the Seconds good successe.</head>
+               <l>GOd bless our Soveraigne Lord, good <hi>Charls</hi> our King,</l>
+               <l>May all such blessings, as from heaven doe spring</l>
+               <l>Surround him; May his Victory and health</l>
+               <l>Make this Land flourish, in love, peace, and wealth:</l>
+               <l>May every <hi>season,</hi> as attendant be,</l>
+               <l>To adde to Him, a new felicitie;</l>
+               <l>May the great King of Heaven, be his all Friend,</l>
+               <l>And may his sacred Angells on him tend,</l>
+               <l>To keep Him from all ill, then crowne his dayes</l>
+               <l>With <hi>Crowns of glory,</hi> and eternall <hi>Bayes;</hi>
+               </l>
+               <l>For who in after <hi>Times</hi> shall read his Story,</l>
+               <l>Shall finde compriz'd in him, all <hi>vertues glory.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>A Curse to <hi>Cromwell,</hi> and his Iuncto.</head>
+               <l>LEet all your <hi>seed</hi> (like <hi>Cains</hi>) be runnagates,</l>
+               <l>And home-bred striffes rend your <hi>New perjur'd</hi> States.</l>
+               <pb n="8" facs="tcp:171502:5"/>
+               <l>May <hi>Leprosy</hi> from sowle unto the Cowne,</l>
+               <l>Humble your <hi>Pride,</hi> bring your <hi>ambition</hi> downe:</l>
+               <l>May the <hi>Kings Evill</hi> taint you and your <hi>race,</hi>
+               </l>
+               <l>And <hi>Egypts Plagues</hi> dogge you from place to place;</l>
+               <l>Till your more cursed <hi>souls,</hi> that never yet were true,</l>
+               <l>In stead of <hi>Caesar,</hi> give th' <hi>Devill</hi> his <hi>due.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The <hi>Loyall Subjects DEPRECATION</hi> and <hi>IMPRECATION</hi> against all those who had the least hand in the bloody Butoberly murdering of our late dread Soveraigne Lord King <hi>Charls</hi> the First.</head>
+               <div type="part">
+                  <head>Deprecation.</head>
+                  <l>HEaven sheild us from these <hi>Antichristian</hi> crew</l>
+                  <l>That in their Soveraigns <hi>blood,</hi> their hands embrew.</l>
+                  <l>For as 'twas the Act of <hi>Mars,</hi> so 'twas his day</l>
+                  <l>On which our glorious <hi>Sun</hi> was snatch'd away;</l>
+                  <l>Then from our better <hi>Plannets,</hi> let's kick out</l>
+                  <l>That <hi>Demie Sodling,</hi> with his rabble rout;</l>
+                  <l>Accursed <hi>Traytors,</hi> Miscreants of Hell!</l>
+                  <l>What Age, this horrid Act can paralell?</l>
+                  <l>Call ye this <hi>Libertie of Conscience?</hi>
+                  </l>
+                  <l>Is this the off-spring of your fair <hi>Pretence?</hi>
+                  </l>
+                  <l>The Scriptures tell us of a <hi>Conscience sear'd,</hi>
+                  </l>
+                  <l>That's <hi>your Disease,</hi> 'tis greatly to be fear'd.</l>
+                  <l>It was the sinne of <hi>Lucifer,</hi> to be</l>
+                  <l>Like the Most High, pure <hi>Jndependencie!</hi>
+                  </l>
+                  <l>In this you differ; he aspir'd to be</l>
+                  <l>But like; but <hi>you</hi> above the <hi>Deitie.</hi>
+                  </l>
+               </div>
+               <div type="part">
+                  <head>Imprecation.</head>
+                  <l>And now, wer't not a sinne, I'de wish a place,</l>
+                  <l>Farre worse then <hi>Hell,</hi> for you and all your race.</l>
+                  <l>Where you might never <hi>Brimstone</hi> lack, nor fire,</l>
+                  <l>Nor <hi>Fiends</hi> to give <hi>Rebellion</hi> it's due hire,</l>
+                  <l>Where you might <hi>stew</hi> in <hi>blood,</hi> and after fry</l>
+                  <l>In <hi>endlesse flames,</hi> and wish, <hi>but never die.</hi>
+                  </l>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
